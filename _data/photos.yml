@@ -1,0 +1,13 @@
+main:
+  - file: ./Images/Shikra.png
+    caption: Shikra
+  - file: ./Images/Sunbird.png
+    caption: Sunbird
+  - file: ./Images/roller.jpg
+    caption: Indian Roller
+  - file: ./Images/APF.jpg
+    caption: Asian Paradise Flycatcher
+  - file: ./Images/CSB.png
+    caption: Coppersmith Barbet
+  - file: ./Images/TBF.png
+    caption: Tickell's Blue Flycatcher
