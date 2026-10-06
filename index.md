@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a CS dual degree(BTech + MS) student at IIIT-Hyderabad. Born and brought up in Bengaluru, high school years in Pune, college years in Hyderabad, currently living in Tamilnadu (Krishnagiri). An avid Photographer and a Competitive Programming legend in a previous life.
+I am a CS dual degree(BTech + MS) student at IIIT-Hyderabad. Born and brought up in Bengaluru, high school years in Pune, college years in Hyderabad, currently living in Tamilnadu (Krishnagiri). An avid Photographer and a Competitive Programming legend in a previous life. Learning Hindi and Gym.
 
 ## News
 
